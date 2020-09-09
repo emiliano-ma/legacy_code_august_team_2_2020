@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/emiliano/dev/craftacademy/legacy_code_august_team_2_2020/app/models/user.rb": [
+      "/home/sebastian/legacy_code_august_team_2_2020/app/models/user.rb": [
         1,
         null,
         null,
@@ -23,16 +23,16 @@
         null,
         null
       ],
-      "/Users/emiliano/dev/craftacademy/legacy_code_august_team_2_2020/app/models/application_record.rb": [
+      "/home/sebastian/legacy_code_august_team_2_2020/app/models/application_record.rb": [
         1,
         1,
         null
       ],
-      "/Users/emiliano/dev/craftacademy/legacy_code_august_team_2_2020/app/helpers/application_helper.rb": [
+      "/home/sebastian/legacy_code_august_team_2_2020/app/helpers/application_helper.rb": [
         1,
         1,
-        0,
-        0,
+        2,
+        2,
         0,
         0,
         0,
@@ -43,7 +43,7 @@
         null,
         null
       ],
-      "/Users/emiliano/dev/craftacademy/legacy_code_august_team_2_2020/app/helpers/mailbox_helper.rb": [
+      "/home/sebastian/legacy_code_august_team_2_2020/app/helpers/mailbox_helper.rb": [
         1,
         1,
         null,
@@ -52,54 +52,40 @@
         null,
         null
       ],
-      "/Users/emiliano/dev/craftacademy/legacy_code_august_team_2_2020/app/controllers/application_controller.rb": [
-        0,
+      "/home/sebastian/legacy_code_august_team_2_2020/app/controllers/welcome_controller.rb": [
+        1,
+        1,
         null,
-        null,
-        0,
-        null,
-        0,
-        null,
-        0,
-        null,
-        0,
-        null,
-        0,
-        0,
-        0,
-        null,
-        0,
-        0,
-        0,
-        null,
-        0,
-        null,
-        0,
-        0,
-        0,
-        0
+        null
       ],
-      "/Users/emiliano/dev/craftacademy/legacy_code_august_team_2_2020/app/controllers/mailbox_controller.rb": [
-        0,
+      "/home/sebastian/legacy_code_august_team_2_2020/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
         0,
         null,
-        0,
-        0,
-        0,
+        null,
+        1,
         0,
         null,
-        0,
-        0,
-        0,
-        0,
         null,
-        0,
-        0,
-        0,
-        0,
-        0
+        1,
+        null,
+        1,
+        4,
+        null,
+        null
       ],
-      "/Users/emiliano/dev/craftacademy/legacy_code_august_team_2_2020/app/controllers/conversations_controller.rb": [
+      "/home/sebastian/legacy_code_august_team_2_2020/app/controllers/conversations_controller.rb": [
         0,
         0,
         null,
@@ -147,13 +133,27 @@
         null,
         0
       ],
-      "/Users/emiliano/dev/craftacademy/legacy_code_august_team_2_2020/app/controllers/welcome_controller.rb": [
+      "/home/sebastian/legacy_code_august_team_2_2020/app/controllers/mailbox_controller.rb": [
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
         0,
         0,
         0,
         0
       ]
     },
-    "timestamp": 1599650517
+    "timestamp": 1599672665
   }
 }
