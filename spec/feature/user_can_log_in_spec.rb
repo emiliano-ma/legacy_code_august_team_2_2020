@@ -34,3 +34,4 @@ feature 'User can log in on the page' do
     end
   end
 end
+
