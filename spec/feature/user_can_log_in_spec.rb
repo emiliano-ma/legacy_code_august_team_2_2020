@@ -1,5 +1,3 @@
-
-
 feature 'User can log in on the page' do
   let(:user) {create(:user) }
   context 'successfully' do
@@ -29,9 +27,8 @@ feature 'User can log in on the page' do
       click_on "Log in"
     end
 
-    it 'is expected to show wrong message' do
+    it 'is expected to show error message' do
       expect(page).to have_content 'Invalid Email or password.'
-      
     end
   end
 end
