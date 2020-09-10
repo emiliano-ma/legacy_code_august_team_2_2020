@@ -1,7 +1,7 @@
 
 
 feature 'User can log in on the page' do
-  let(:user) {FactoryBot.create(:user) }
+  let(:user) {create(:user) }
   context 'successfully' do
     before do
       visit root_path
@@ -30,6 +30,7 @@ feature 'User can log in on the page' do
     end
 
     it 'is expected to show wrong message' do
+      expect(page).to have_content 'Invalid Email or password.'
       
     end
   end
